@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/zpPTzHr/Github-thumbnil-1.jpg" alt="Web Dsigner Web Developer WordPress Developer thumbnil (1)" border="0">
+<img src="https://i.ibb.co/1GF7FsjS/Github-Thumbnail-2-1.jpg" alt="Web Designer Web Developer WordPress Developer Thumbnail 2 (1)" border="0">
 <h3 align="center">A passionate Web Designer, Web Developer & WordPress Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safiullah94&label=Profile%20views&color=0e75b6&style=flat" alt="safiullah94" /> </p>
